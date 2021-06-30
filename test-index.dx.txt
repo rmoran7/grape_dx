@@ -1,0 +1,8 @@
+sample1	test1	dx://project-G34qbv80245K61j89Yj3JX0F:/data/test1_2.fastq.gz	fastq	FqRd2
+sample1	test1	dx://project-G34qbv80245K61j89Yj3JX0F:/data/test1_1.fastq.gz	fastq	FqRd1
+sample2	test2	dx://project-G34qbv80245K61j89Yj3JX0F:/data/test2_2.fastq.gz	fastq	FqRd2
+sample2	test2	dx://project-G34qbv80245K61j89Yj3JX0F:/data/test2_1.fastq.gz	fastq	FqRd1
+sample2	test3	dx://project-G34qbv80245K61j89Yj3JX0F:/data/test3_2.fastq.gz	fastq	FqRd2
+sample2	test3	dx://project-G34qbv80245K61j89Yj3JX0F:/data/test3_1.fastq.gz	fastq	FqRd1
+sample3	test4	dx://project-G34qbv80245K61j89Yj3JX0F:/data/sample3_m4_n10_toGenome.bam	bam	GenomeAlignments
+sample3	test4	dx://project-G34qbv80245K61j89Yj3JX0F:/data/sample3_m4_n10_toTranscriptome.bam	bam TranscriptomeAlignments
